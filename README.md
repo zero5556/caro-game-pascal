@@ -10,6 +10,6 @@ zero 3.0: tăng khả năng tấn công của AI, chỉnh sửa chức năng đ�
 zero 4.0: tăng khả năng phòng thủ, nâng cấp chức năng đánh giá vị trí.
 zero 4.5: sửa lại chức năng đánh giá vị trí.
 zero 5.0: tăng khả năng tấn công của AI.
-zero 5.5: tăng khả năng tấn công của AI.
+zero 5.5: tăng khả năng tấn công và phòng thủ của AI.
 # Lời kết
 Mình chỉ làm game để kiểm tra khả năng code của mình, nếu các bạn muốn thì mình vẫn update thêm cho game nha.
