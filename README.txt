@@ -13,6 +13,7 @@ zero 4.0: tăng khả năng phòng thủ, nâng cấp chức năng đánh giá v
 zero 4.5: sửa lại chức năng đánh giá vị trí.
 zero 5.0: tăng khả năng tấn công của AI.
 zero 5.5: tăng khả năng tấn công và phòng thủ của AI.
+zero 6.0: tăng độ sâu tìm kiếm lên 2, tăng số lượng vị trí tìm kiếm lên 800.
 
 LỜI KẾT
 Mình chỉ làm game để kiểm tra khả năng code của mình, nếu các bạn muốn thì mình vẫn update thêm cho game nha.
