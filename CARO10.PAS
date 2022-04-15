@@ -45,7 +45,7 @@ textcolor(white);
 gotoxy(1,21);
 writeln('------------------------------------------');
 writeln('move the cursor with the a,s,w,d keys on your computer and');
-writeln('press space to move.');
+writeln('press enter to move.');
 gotoxy(x*2,y);
 repeat
 key:=readkey;
