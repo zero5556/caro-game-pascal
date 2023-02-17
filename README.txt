@@ -17,3 +17,5 @@ zero 6.0: tăng độ sâu tìm kiếm lên 2, tăng số lượng vị trí tì
 
 LỜI KẾT
 Mình chỉ làm game để kiểm tra khả năng code của mình, nếu các bạn muốn thì mình vẫn update thêm cho game nha.
+Lưu ý (17/2/2023):
+mình đã tìm được bug ở hàm checkwin của tất cả file caro và mình chỉ fix file caro10 và caro11 còn các file khác không fix.
