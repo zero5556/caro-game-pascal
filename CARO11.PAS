@@ -144,7 +144,7 @@ or (board[x,y]+board[x-1,y-1]+board[x-2,y-2]+board[x-3,y-3]+board[x-4,y-4]=-5)
 or (board[x,y]+board[x,y+1]+board[x,y+2]+board[x,y+3]+board[x,y+4]=-5)
 or (board[x,y]+board[x+1,y]+board[x+2,y]+board[x+3,y]+board[x+4,y]=-5)
 or (board[x,y]+board[x,y-1]+board[x,y-2]+board[x,y-3]+board[x,y-4]=-5)
-or (board[x,y]+board[x-1,y]+board[x-2,y]+board[x-3,y]+board[x+4,y]=-5)
+or (board[x,y]+board[x-1,y]+board[x-2,y]+board[x-3,y]+board[x-4,y]=-5)
 then botWin;
 end;
 end;
