@@ -2,7 +2,7 @@ CARO-GAME-PASCAL
 Hello mọi người, đây là các code caro bằng pascal mà mình làm. Sau này nếu mình làm thêm phiên bản mới thì mình sẽ tải lên thêm cho mọi người. file source các bạn chạy trên cả turbo pascal và free pascal đều đc.
 
 THUẬT TOÁN VÀ AI
-AI mình lập trình ra có tên là Zero (mình tự đặt) nó hoạt động theo cách xét mọi vị trí trong map và thông qua chức năng tính điểm để lấy nước đi tốt nhất trong lượt này hay còn gọi là Greedy hoặc tham lam, còn từ zero 6.0 trở đi thì thuật toán sẽ khác.
+AI mình lập trình ra có tên là Zero (mình tự đặt) nó hoạt động theo cách xét mọi vị trí trong map và thông qua chức năng tính điểm để lấy nước đi tốt nhất trong lượt này hay còn gọi là Greedy hoặc tham lam.
 
 CÁC PHIÊN BẢN CỦA AI
 zero 1.0: AI đầu tiên, còn yếu và nhiều bug.
